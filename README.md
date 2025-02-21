@@ -1,6 +1,6 @@
 # 121 Default Theme (Based on Hello Elementor)
 
-A lightweight and minimalist WordPress theme for Elementor site builder.
+A lightweight and minimalist WordPress theme for Elementor site builder, with improvements to include tighter integrations with other plugins from 121 Digital Services Limited.
 
 <p><a href="https://elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=readme"><img src="https://i0.wp.com/themes.svn.wordpress.org/hello-elementor/2.7.1/screenshot.png?w=600&strip=all" alt="Hello Elementor"></a></p>
 
